@@ -25,8 +25,8 @@ IN ORDER TO RUN THE TESTS.
 2. Setup you environment PATH and PYTHONPATH variable to 
 point to the Python executable.
 3. Clone the branch. 
-4. Install all the python dependencies using pip install -r requirements.txt
-5. execute the tests using pytest tests/ --html-report=report.html
+4. Install all the python dependencies using `pip install -r requirements.txt` 
+5. execute the tests using `pytest tests/ --html-report=report.html`
 6. Collect the report.html and verify all the PASSES AND FAILURES
 
 
