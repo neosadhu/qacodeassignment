@@ -5,7 +5,7 @@ This repository contains the testcases written in excel file along with an autom
 python test script that will call the API with different types of 
 tests and create a HTML report based on the result of the tests. 
 
-#SCOPE: 
+## SCOPE: 
 The scope of this testing activity was to perform some exploratory 
 testing and record the results. 
 A basing sanity testing and smoke testing of the API was performed
@@ -18,7 +18,7 @@ however there are still some manual tests that are not fully
 automated. 
 
 There were no load testing and performance testing involved. 
-#AUTOMATED TESTS
+## AUTOMATED TESTS
 
 IN ORDER TO RUN THE TESTS. 
 1. Install Python 3.9 
@@ -30,7 +30,7 @@ point to the Python executable.
 6. Collect the report.html and verify all the PASSES AND FAILURES
 
 
-#REPORT
+## REPORT
 The report is an open source user friendly HTML report that can
 be added to the python project. The report shows high level
 pass/fail status as well as a some other metrics used to gauge
