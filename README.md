@@ -1,7 +1,7 @@
 # QA Code Assignment
 
 
-This repository contains the testcases along with an automated
+This repository contains the testcases written in excel file along with an automated
 python test script that will call the API with different types of 
 tests and create a HTML report based on the result of the tests. 
 
@@ -28,6 +28,7 @@ point to the Python executable.
 4. Install all the python dependencies using pip install -r requirements.txt
 5. execute the tests using pytest tests/ --html-report=report.html
 6. Collect the report.html and verify all the PASSES AND FAILURES
+
 
 ##REPORT
 The report is an open source user friendly HTML report that can
