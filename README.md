@@ -8,7 +8,7 @@ tests and create a HTML report based on the result of the tests.
 ## SCOPE: 
 The scope of this testing activity was to perform some exploratory 
 testing and record the results. 
-A basing sanity testing and smoke testing of the API was performed
+A basic sanity testing and smoke testing of the API was performed
 which included testing for the happy path as well as some
 negative and invalid scenarios. 
 
