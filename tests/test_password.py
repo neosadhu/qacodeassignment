@@ -57,4 +57,3 @@ def test_shutdown_the_application():
         payload = "{\"password\": \"angrymonkey\"}"
         response = requests.request("POST", url +"/hash", headers=headers, data=payload)
         assert response.status_code !=200
-
