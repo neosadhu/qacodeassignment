@@ -1,0 +1,4 @@
+.pytest_cache
+archive
+venv
+output.json
